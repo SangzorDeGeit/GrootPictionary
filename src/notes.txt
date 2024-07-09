@@ -1,0 +1,16 @@
+font 100 : +- 50/letter
+1500 breedte willen we ongeveer 
+
+if woord < 15?:
+    font = 200
+else 
+    y = 1500/letters
+    scaling = y/50 
+    font = 100 * scaling
+end
+woord = 20 letters
+1500 / 20 = 75
+
+
+max = 200
+
