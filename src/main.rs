@@ -12,10 +12,10 @@ const APP_ID: &str = "pictionary.groot";
 
 const REGELS: [&str; 26] = 
 [
- "Achteruit, 2 mogelijkheden, of we spelen de ronde achteruit, of jouw team verplaatst zich achter dat van Ruit",
- "Buur schuur! Deel een biertje met elke buur!",
- "",
- "Dick schoof wilt dat je belasting betaalt: drink 21% van je huidige drankje",
+ "regel 1",
+ "regel 2",
+ "regel 3",
+ "regel 4",
  "regel 5",
  "regel 6",
  "regel 7",
